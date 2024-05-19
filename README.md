@@ -2,14 +2,18 @@
 
 ✋ Hi! I have 3 years of professional experience in the world of web and mobile development making Enterprise products for various JavaScript-based stacks. Following are my skillsets:
 
-## 🛠 Front-End
-- **Frameworks & Libraries:** Angular, TypeScript, ASP.NET MVC, HTML5, Razor Pages, WordPress
-- **State Management:** Redux, Akita
-- **CSS Libraries:** Bootstrap5, Material-UI, Tailwind CSS, DevExtreme, Ant Design Zorr, CSS & SASS
+🛠 Front-End
+Frameworks & Libraries: ✔React, Angular16, NextJS, TypeScript, HTML5, Bubble.io
+State Management: ✔Redux, Akita
+CSS Libraries: ✔Bootstrap5, Material-UI, Tailwind CSS, ReactNative Paper, Ant Design, CSS & SASS, GraphQL, OpenGL
 
-## 🎇 Back-End
-- **Technologies:** .NET Core Web API, WordPress
-- **CMS:** Strapi, Sanity
+🎇 Back-End
+Technologies: ✔NodeJS, .NET Core Web API, WordPress, Laravel, Spring Boot, Hapi.js, AWS Lambda, AWS Step Functions
+CMS: ✔Strapi, Sanity
+Other: ✔WebSocket, Redis, Stripe
+
+📱 Mobile Application (Android & iOS)
+Framework: ✔React Native (expo cli)
 
 ## 🗄 Database
 - **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, MSSQL Server
