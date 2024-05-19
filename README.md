@@ -1,6 +1,6 @@
-# 🚀 Full-Stack Developer | Angular, .NET Core MVC, .NET Core Web API
+# 🚀 Full-Stack Developer | REACT, ANGULAR, NODEJS,.NET Core MVC
 
-✋ Hi! I have 3 years of professional experience in the world of web and mobile development making Enterprise products for various JavaScript-based stacks. Following are my skillsets:
+✋ Hi! I have 4 years of professional experience in the world of web and mobile development making Enterprise products for various JavaScript-based stacks. Following are my skillsets:
 
 🛠 Front-End
 Frameworks & Libraries: ✔React, Angular16, NextJS, TypeScript, HTML5, Bubble.io
